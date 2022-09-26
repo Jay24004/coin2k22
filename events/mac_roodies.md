@@ -2,7 +2,7 @@
 title: Mαth∫etΣs
 subtitle: Without mathematics, there's nothing you can do. Everything around you is numbers.
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/maths_image.jpg
 ---
 
 
