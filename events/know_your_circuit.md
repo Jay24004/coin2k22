@@ -2,7 +2,7 @@
 title: KNOW YOUR CIRCUIT(KYC)
 subtitle: Circuit overloading - the results are electrifying.
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/kyc_background.jpg
 ---
 
 
