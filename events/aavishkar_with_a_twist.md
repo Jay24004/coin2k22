@@ -2,7 +2,7 @@
 title: Aavishkar with a Twist
 subtitle: You don’t need anyone's permission to create something great
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/aavishkar_with_a_twist.jpg
 ---
 
 
