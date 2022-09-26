@@ -2,7 +2,7 @@
 title: MOCK PLACEMENT 
 subtitle: Here comes one of the most sort out events of COIN - MOCK PLACEMENT
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/mock_placement.jpg
 ---
 
 
