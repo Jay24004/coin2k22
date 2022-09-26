@@ -4,7 +4,7 @@ title: About Coin
 subtitle: KSHITIJ- ANANT GYAN KI TALASH MEIN
 ---
 
-## Instrumentation and control department 
+## Instrumentation And Control Department 
 
 Instrumentation and control department presents the **ANNUAL TECHNO FESTIVAL-COIN 2k22** With great enthusiasm along with lots of fun, under the banner of  **KSHITIJ- ANANT GYAN KI TALASH MEIN** at Sarvajanik College of Engineering and Technology, Surat held on 30th September and 1st October 2022.
 
