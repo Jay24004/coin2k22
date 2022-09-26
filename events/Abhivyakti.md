@@ -2,7 +2,7 @@
 title: Abhivyakti
 subtitle: The whole purpose is to enable people to learn. Your mission is not to transmit information but to transform learners
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/Abhivyakti.jpg
 ---
 
 
