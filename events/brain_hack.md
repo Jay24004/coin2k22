@@ -14,19 +14,19 @@ cover-img: /assets/img/brain_hack_bg.jpg
 
 **Round 1:-**
 
-   > Name:- Quiz
+   > **Name:- Quiz**
   
-   > Date:- 30th September
+   > **Date:- 30th September**
   
-   > Time:- 12:15 to 12:45
+   > **Time:- 12:15 to 12:45**
 
 **Round 2:-**
   
-   ● Name:- Debugging
+   > Name:- Debugging
   
-   ● Date:- 1st October
+   > Date:- 1st October
   
-   ● Time:- 9.30 to 10.30
+   > Time:- 9.30 to 10.30
 
 **Registration Fees: 20/-**
 
