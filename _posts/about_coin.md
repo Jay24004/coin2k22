@@ -5,6 +5,7 @@ subtitle: KSHITIJ- ANANT GYAN KI TALASH MEIN
 cover-img: /assets/img/coin_full_tp.jpg
 thumbnail-img: /assets/img/coin_logo_round.png
 share-img: /assets/img/coin_full_tp.jpg
+tags: [books, test]
 ---
 
 ## Instrumentation And Control Department 
