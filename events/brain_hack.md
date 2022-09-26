@@ -9,6 +9,7 @@ thumbnail-img:  "/assets/img/SPELLBEE.png"
 # Event Details
 
 **Numbers Of Rounds:** 2
+
 **Event Type:** Solo
 
 **Round 1:-**
