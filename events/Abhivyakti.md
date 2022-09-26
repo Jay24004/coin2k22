@@ -54,6 +54,6 @@ cover-img: /assets/img/brain_hack_bg.jpg
 
 **Event Heads:-**
 
-   > **Ramā Gham(9974088310)**
+   > **Ramā Gham (9974088310)**
    
-   > **Shruti Manjare(8200314817)**
+   > **Shruti Manjare (8200314817)**

@@ -29,3 +29,10 @@ cover-img: /assets/img/brain_hack_bg.jpg
 
 **Date :-  30th September**
 **time :- 2:00 to 4:00**
+
+**Registration Fees : 30/- per head**
+**Event Heads:-**
+
+   > **Afsin Saeed (9913654334)**
+   
+   > **Mariya Tohfafarosh (7041176482)**
