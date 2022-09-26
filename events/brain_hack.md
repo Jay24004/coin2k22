@@ -2,7 +2,7 @@
 title: Brain Hack
 subtitle: Make It Work, Make It Right, Make It Fast
 tags: [events]
-thumbnail-img:  "/assets/img/SPELLBEE.png"
+cover-img: /assets/img/brain_hack_bg.jpg
 ---
 
 
@@ -14,11 +14,11 @@ thumbnail-img:  "/assets/img/SPELLBEE.png"
 
 **Round 1:-**
 
-   ● Name:- Quiz
+   > Name:- Quiz
   
-   ● Date:- 30th September
+   > Date:- 30th September
   
-   ● Time:- 12:15 to 12:45
+   > Time:- 12:15 to 12:45
 
 **Round 2:-**
   
