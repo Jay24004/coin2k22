@@ -2,7 +2,7 @@
 title: Spell Bee
 subtitle: You don't have to have the right answers, you just have to be willing to learn
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/spellbee.jpg
 ---
 
 
