@@ -33,6 +33,7 @@ navbar-links:
     - Mock Placement: "events/mock_placement"
     - KNOW YOUR CIRCUIT(KYC): "events/know_your_circuit"
     - Spell Bee: "events/spell_bee"
+  Register Now: "register"
     
 
 ################
