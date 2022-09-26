@@ -2,7 +2,7 @@
 title: Kal Ka Ambani
 subtitle: A Successful business requires one simple thing PASSION
 tags: [events]
-cover-img: /assets/img/brain_hack_bg.jpg
+cover-img: /assets/img/marketing.jpg
 ---
 
 
