@@ -1,6 +1,6 @@
 ---
-title: Brain hack
-subtitle: This is an Event Drescription this page is in post
+title: SHERLOCK HOLMES 
+subtitle: Let’s dig out some unknown truths
 tags: [events]
-thumbnail-img:  "/assets/img/SPELLBEE.png"
+thumbnail-img:  "/assets/img/sherlok.jpg"
 ---
