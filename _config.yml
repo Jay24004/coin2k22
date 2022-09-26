@@ -24,12 +24,16 @@ navbar-links:
   Schedule: "schedule"
   Events‎ ‎:
     - BRAIN HACK: "events/brain_hack"
-    - KNOW YOUR CIRCUIT(KYC): "events/know_your_circuit"
-    - Mαth∫etΣs: "events/maths"
-    - Strategic Marketing: "events/SM"
+    - Aavishkar with a Twist: "events/aavishkar_with_a_twist"
+    - Kal Ka Ambani: "events/Kal_Ka_Ambani"
+    - Abhivyakti: "events/Abhivyakti"
+    - 85/51 ALP: "events/85_51_ALP"
     - SHERLOCK HOLMES: "events/sherlock_homes"
-    - MAC RODIES: "events/mac_roodies"
+    - Mαth∫etΣs: "events/maths"
     - Mock Placement: "events/mock_placement"
+    - KNOW YOUR CIRCUIT(KYC): "events/know_your_circuit"
+    - Spell Bee: "events/spell_bee"
+    
 
 ################
 # --- Logo --- #
@@ -84,7 +88,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
