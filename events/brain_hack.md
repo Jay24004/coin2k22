@@ -22,16 +22,16 @@ cover-img: /assets/img/brain_hack_bg.jpg
 
 **Round 2:-**
   
-   > Name:- Debugging
+   > **Name:- Debugging**
   
-   > Date:- 1st October
+   > **Date:- 1st October**
   
-   > Time:- 9.30 to 10.30
+   > **Time:- 9.30 to 10.30**
 
 **Registration Fees: 20/-**
 
 **Event Heads:-**
 
-   ● Jay Patel (9106589798)
+   > **Jay Patel (9106589798)**
    
-   ● Chintan baraiya (8488024316)
+   > **Chintan baraiya (8488024316)**
