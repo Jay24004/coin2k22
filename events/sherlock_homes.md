@@ -17,7 +17,7 @@ cover-img:  "/assets/img/sherlok.jpg"
    
    > **Event type:- Solo**
   
-   > **Date:- 30 September**
+   > **Date:- 30th September**
   
    > **Time:- 10:30 to 11:30**
 
@@ -27,7 +27,7 @@ cover-img:  "/assets/img/sherlok.jpg"
 
    > **Event type:**- Group
   
-   > **Date:- 30 September**
+   > **Date:- 30th September**
   
    > **Time:- 3:00 to 4:00**
 

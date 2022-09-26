@@ -24,7 +24,7 @@ cover-img: /assets/img/maths_image.jpg
   
    > **Name:- Mαth∫etΣs shorts challenge**
   
-   > **Date:- 30 September**
+   > **Date:- 30th September**
   
    > **Time:- 12:15 to 12:45**
 
