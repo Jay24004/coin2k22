@@ -7,7 +7,7 @@ cover-img:  "/assets/img/sherlok.jpg"
 
 # Event Details
 
-**Numbers Of Rounds:** 2
+**Number Of Rounds:** 2
 
 **Event Type:** Solo
 
