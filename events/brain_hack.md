@@ -36,4 +36,4 @@ cover-img: /assets/img/brain_hack_bg.jpg
    
    > **Chintan Baraiya (8488024316)**
 
-**[Regiser here](https://forms.gle/GcGDo2dzZNyZFgkZ9)**
+**[Register here](https://forms.gle/GcGDo2dzZNyZFgkZ9)**
