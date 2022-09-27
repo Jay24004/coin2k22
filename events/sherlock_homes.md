@@ -49,3 +49,5 @@ cover-img:  "/assets/img/sherlok.jpg"
    > **Dev Desai(9638871456)**
    
    > **Shubham Shah(9714477344)**
+
+**[Register here](https://forms.gle/jisAUtRYJnTuJHXQ9)**
