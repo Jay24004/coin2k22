@@ -43,3 +43,5 @@ cover-img: /assets/img/mock_placement.jpg
    > **Sahaj Patel (7984674117)**
    
    > **Kushin Patel (9909639044)**
+
+**[Register here](https://forms.gle/4Yik6KgquBZxLTtCA)**
