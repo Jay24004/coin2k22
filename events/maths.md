@@ -35,3 +35,5 @@ cover-img: /assets/img/maths_logo.jpg
    > **Kedar choksi(9328738943)**
    
    > **Jay Patel(7016276366)**
+
+**[Register here](https://forms.gle/ykzL36jwnAkd5QsA8)**
