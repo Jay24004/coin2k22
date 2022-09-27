@@ -8,7 +8,7 @@ cover-img: /assets/img/maths_logo.jpg
 
 # Event Details
 
-**Numbers Of Rounds:** 2
+**Number Of Rounds:** 2
 
 **Event Type:** Duo
 
