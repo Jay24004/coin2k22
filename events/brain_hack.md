@@ -26,7 +26,7 @@ cover-img: /assets/img/brain_hack_bg.jpg
   
    > **Date:- 1st October**
   
-   > **Time:- 9.30 to 10.30**
+   > **Time:- 9:30 to 10:30**
 
 **Registration Fees: 20/-**
 
