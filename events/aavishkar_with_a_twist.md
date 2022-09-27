@@ -33,8 +33,6 @@ cover-img: /assets/img/aavishkar_with_a_twist.jpg
 **Date :-  30th September**
 **time :- 2:00 to 4:00**
 
-**[Register here](https://docs.google.com/forms/d/e/1FAIpQLSe4xk6vDgunueGDPV1YKVfsKk4hSGnDKhH93FAauWH0a-TiGQ/viewform)**
-
 **Registration Fees : 30/- per head**
 
 **Event Heads:-**
@@ -42,3 +40,5 @@ cover-img: /assets/img/aavishkar_with_a_twist.jpg
    > **Afsin Saeed (9913654334)**
    
    > **Mariya Tohfafarosh (7041176482)**
+
+**[Register here](https://forms.gle/WFAijTKEG9K1EwiZ7)**
