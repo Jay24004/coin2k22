@@ -10,7 +10,7 @@ cover-img: /assets/img/Abhivyakti.jpg
 
 **Numbers Of Rounds:** 1
 
-**Event Type:** Duo
+**Event Type:** Solo/Duo
 
 **Round 1:-**
 
@@ -28,12 +28,11 @@ cover-img: /assets/img/Abhivyakti.jpg
    
 ## RULES:
 
-• No of slides: 10-12
+• Number of slides: 10-12
 
-• Time: 8 min (presentation) + 2 min (Q&A)
+• Time: 8 minutes (presentation) + 2 minutes (Q&A)
 
-• Email your presentation one day prior to the email id:
-   > coin2022@gmail.com
+**• Email your presentation one day prior to the email id: coin2022@gmail.com**
 
 • Bring a hardcopy at the time of presentation.
 
@@ -44,7 +43,7 @@ cover-img: /assets/img/Abhivyakti.jpg
    
    > Content - 14
 
-**Time Limit: 10/12 mins per team**
+**Time Limit: 10/12 minutes per team**
 
 **Date: 30th September**
 
