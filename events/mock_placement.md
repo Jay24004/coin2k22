@@ -30,7 +30,7 @@ cover-img: /assets/img/mock_placement.jpg
   
    > **Time:- 1:30 to 2:30**
 
-**Round 2:-**
+**Round 3:-**
 
    > **Name:-  HR-TECH VIS-A-VIS**
   
