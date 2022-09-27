@@ -8,7 +8,7 @@ cover-img: /assets/img/KalKaAmbani.jpg
 
 # Event Details
 
-**Numbers Of Rounds:** 3
+**Number Of Rounds:** 3
 
 **Event Type:** Solo
 
