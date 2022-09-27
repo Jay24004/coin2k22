@@ -34,4 +34,4 @@ cover-img: /assets/img/brain_hack_bg.jpg
 
    > **Jay Patel (9106589798)**
    
-   > **Chintan baraiya (8488024316)**
+   > **Chintan Baraiya (8488024316)**
