@@ -43,3 +43,5 @@ cover-img: /assets/img/kyc_background.jpg
    > **Kush Shah (9033004070)**
    
    > **Samarth Jadhav (9712650044)**
+
+**[Register here](https://forms.gle/RmkrgJRk9C34et8B7)**
