@@ -44,3 +44,5 @@ cover-img: /assets/img/KalKaAmbani.jpg
    > **Janvi Rana (9825917401)**
    
    > **Hiteshree Varsale (9427100794)**
+
+**[Register here](https://forms.gle/UamjpJqAJV6s6dhu5)**
