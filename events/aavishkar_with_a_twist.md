@@ -8,7 +8,7 @@ cover-img: /assets/img/aavishkar_with_a_twist.jpg
 
 # Event Details
 
-**Numbers Of Rounds:** 1
+**Number Of Rounds:** 1
 
 **Event Type:** Team (min 3, max 5)
 
