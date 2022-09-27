@@ -26,10 +26,10 @@ cover-img: /assets/img/KalKaAmbani.jpg
   
    > **Date:- 30th September**
   
-   > **Time:- 9.30 to 10.30**
+   > **Time:- 9:30 to 10:30**
 
 
-**Round 2:-**
+**Round 3:-**
   
    > **Name:- Surprise round**
   
