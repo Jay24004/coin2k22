@@ -41,4 +41,4 @@ cover-img: /assets/img/aavishkar_with_a_twist.jpg
    
    > **Mariya Tohfafarosh (7041176482)**
 
-**[Register here](https://forms.gle/WFAijTKEG9K1EwiZ7)**
+**[Register here](https://forms.gle/2RAG7MYPj9bEjyRt6)**
