@@ -12,6 +12,8 @@ cover-img: /assets/img/mock_placement.jpg
 
 **Event Type:** Solo
 
+**Resume and Formals are compulsory**
+
 **Round 1:-**
 
    > **Name:- Aptitude Test**
@@ -29,8 +31,6 @@ cover-img: /assets/img/mock_placement.jpg
    > **Time:- 1:30 to 2:30**
 
 **Round 2:-**
-
-   > **Resume and Formals are compulsory**
 
    > **Name:-  HR-TECH VIS-A-VIS**
   
