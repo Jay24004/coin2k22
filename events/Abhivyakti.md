@@ -57,4 +57,4 @@ cover-img: /assets/img/Abhivyakti.jpg
    
    > **Shruti Manjare (8200314817)**
 
-**[Register here](https://docs.google.com/forms/d/e/1FAIpQLSfRjJgu_6AiLao4bhy0DapHCFR1GDI4o2XYl-SGSWRlGdblzg/viewform)**
+**[Register here](https://forms.gle/EZuN4jzktRMGxiqm9)**
