@@ -8,7 +8,7 @@ cover-img: /assets/img/Abhivyakti.jpg
 
 # Event Details
 
-**Numbers Of Rounds:** 1
+**Number Of Rounds:** 1
 
 **Event Type:** Solo/Duo
 
