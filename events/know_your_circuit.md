@@ -8,7 +8,7 @@ cover-img: /assets/img/kyc_background.jpg
 
 # Event Details
 
-**Numbers Of Rounds:** 3
+**Number Of Rounds:** 3
 
 **Event Type:** Duo
 
@@ -40,6 +40,6 @@ cover-img: /assets/img/kyc_background.jpg
 
 **Event Heads:-**
 
-   > **Kush Shah - (9033004070)**
+   > **Kush Shah (9033004070)**
    
-   > **Samarth Jadhav - (9712650044)**
+   > **Samarth Jadhav (9712650044)**
