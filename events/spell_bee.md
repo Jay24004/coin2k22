@@ -35,3 +35,5 @@ cover-img: /assets/img/spellbee.jpg
    > **Meet Patel(8460008571)**
    
    > **Yashasvi Patel(9510325180)**
+
+**[Register here](https://forms.gle/otHurahDdAMGCfuRA)**
