@@ -13,28 +13,3 @@ So we are here to invite all of you to participate in this event as it brings th
 
 So brush up your skills and join us...🤩💃
 
-## Event List
-### **Technical Events:-**
-
-● Abhivyakti
-
-● KYC (Know Your Circuit)
-
-● Aavishkar
-
-● Mathletes
-
-● 85/51 ALP (Assembly Language Programming)
-
-● Brain Hack
-      
-### **Non-Technical Events:-**
-
-● Sherlock Holmes 
-
-● Mock Placement
-
-● Kal Ka Ambani...
-
-● Spell Bee
-
